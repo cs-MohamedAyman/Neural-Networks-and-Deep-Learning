@@ -32,7 +32,7 @@ Neural Networks and Deep Learning Training for computer science students.
     <tbody>
         <tr>
 <th rowspan=4 align="center">01</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Neural-Networks-and-Deep-Learning">Neural Networks and Deep Learning</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Neural-Networks-and-Deep-Learning">Neural Networks and Deep Learning</a></th>
 <th align="left">Week 01: Introduction to Deep Learning</th>
 <th rowspan=17 align="center">
 15 Lecture Notes  <br><br>
@@ -44,20 +44,20 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Deep Neural Networks</th></tr>
         <tr>
 <th rowspan=3 align="center">02</th>
-<th rowspan=3 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Improving-Deep-Neural-Networks">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a></th>
+<th rowspan=3 align="center"><a href="/deeplearning.ai/Improving-Deep-Neural-Networks">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a></th>
 <th align="left">Week 01: Practical Aspects of Deep Learning</th>
         </tr>
 <tr><th align="left">Week 02: Optimization Algorithms</th></tr>
 <tr><th align="left">Week 03: Hyperparameter Tuning, Batch Normalization and Programming Frameworks</th></tr>
         <tr>
 <th rowspan=2 align="center">03</th>
-<th rowspan=2 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Structuring-Machine-Learning-Projects">Structuring Machine Learning Projects</a></th>
+<th rowspan=2 align="center"><a href="/deeplearning.ai/Structuring-Machine-Learning-Projects">Structuring Machine Learning Projects</a></th>
 <th align="left">Week 01: ML Strategy</th>
         </tr>
 <tr><th align="left">Week 02: ML Strategy</th></tr>
         <tr>
 <th rowspan=4 align="center">04</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Convolutional-Neural-Networks">Convolutional Neural Networks</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Convolutional-Neural-Networks">Convolutional Neural Networks</a></th>
 <th align="left">Week 01: Foundations of Convolutional Neural Networks</th>
         </tr>
 <tr><th align="left">Week 02: Deep Convolutional Models: Case Studies</th></tr>
@@ -65,7 +65,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Special Applications: Face recognition and Neural Style Transfer</th></tr>
         <tr>
 <th rowspan=4 align="center">05</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Sequence-Models">Sequence Models</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Sequence-Models">Sequence Models</a></th>
 <th align="left">Week 01: Recurrent Neural Networks</th>
         </tr>
 <tr><th align="left">Week 02: Natural Language Processing and Word Embeddings</th></tr>
@@ -90,7 +90,7 @@ Neural Networks and Deep Learning Training for computer science students.
     <tbody>
         <tr>
 <th rowspan=4 align="center">06</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Introduction-to-TensorFlow-for-Artificial-Intelligence">Introduction to TensorFlow for Artificial Intelligence</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Introduction-to-TensorFlow-for-Artificial-Intelligence">Introduction to TensorFlow for Artificial Intelligence</a></th>
 <th align="left">Week 01: A New Programming Paradigm</th>
 <th rowspan=16 align="center">
 15 Lecture Notes  <br><br>
@@ -102,7 +102,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Using Real-world Images</th></tr>
         <tr>
 <th rowspan=4 align="center">07</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Convolutional-Neural-Networks-in-TensorFlow">Convolutional Neural Networks in TensorFlow</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Convolutional-Neural-Networks-in-TensorFlow">Convolutional Neural Networks in TensorFlow</a></th>
 <th align="left">Week 01: Exploring a Larger Dataset</th>
         </tr>
 <tr><th align="left">Week 02: Augmentation: A technique to avoid overfitting</th></tr>
@@ -110,7 +110,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Multiclass Classifications</th></tr>
         <tr>
 <th rowspan=4 align="center">08</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Natural-Language-Processing-in-TensorFlow">Natural Language Processing in TensorFlow</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Natural-Language-Processing-in-TensorFlow">Natural Language Processing in TensorFlow</a></th>
 <th align="left">Week 01: Sentiment in text</th>
         </tr>
 <tr><th align="left">Week 02: Word Embeddings</th></tr>
@@ -118,7 +118,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Sequence models and literature</th></tr>
         <tr>
 <th rowspan=4 align="center">09</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Sequences-Time-Series-and-Prediction">Sequences Time Series and Prediction</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Sequences-Time-Series-and-Prediction">Sequences Time Series and Prediction</a></th>
 <th align="left">Week 01: Sequences and Prediction</th>
         </tr>
 <tr><th align="left">Week 02: Deep Neural Networks for Time Series</th></tr>
@@ -143,7 +143,7 @@ Neural Networks and Deep Learning Training for computer science students.
     <tbody>
         <tr>
 <th rowspan=5 align="center">10</th>
-<th rowspan=5 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Custom-Models-Layers-and-Loss-Functions-with-TensorFlow">Custom Models, Layers, and Loss Functions with TensorFlow</a></th>
+<th rowspan=5 align="center"><a href="/deeplearning.ai/Custom-Models-Layers-and-Loss-Functions-with-TensorFlow">Custom Models, Layers, and Loss Functions with TensorFlow</a></th>
 <th align="left">Week 01: Functional APIs</th>
 <th rowspan=17 align="center">
 15 Lecture Notes  <br><br>
@@ -156,7 +156,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 05: Bonus Content - Callbacks</th></tr>
         <tr>
 <th rowspan=4 align="center">11</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Custom-and-Distributed-Training-with-TensorFlow">Custom and Distributed Training with TensorFlow</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Custom-and-Distributed-Training-with-TensorFlow">Custom and Distributed Training with TensorFlow</a></th>
 <th align="left">Week 01: Differentiation and Gradients</th>
         </tr>
 <tr><th align="left">Week 02: Custom Training</th></tr>
@@ -164,7 +164,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Distributed Training</th></tr>
         <tr>
 <th rowspan=4 align="center">12</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Advanced-Computer-Vision-with-TensorFlow">Advanced Computer Vision with TensorFlow</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Advanced-Computer-Vision-with-TensorFlow">Advanced Computer Vision with TensorFlow</a></th>
 <th align="left">Week 01: Introduction to Computer Vision</th>
         </tr>
 <tr><th align="left">Week 02: Object Detection</th></tr>
@@ -172,7 +172,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <tr><th align="left">Week 04: Visualization and Interpretability</th></tr>
         <tr>
 <th rowspan=4 align="center">13</th>
-<th rowspan=4 align="center"><a href="https://github.com/cs-MohamedAyman/Neural-Networks-and-Deep-Learning/tree/master/deeplearning.ai/Generative-Deep-Learning-with-TensorFlow">Generative Deep Learning with TensorFlow</a></th>
+<th rowspan=4 align="center"><a href="/deeplearning.ai/Generative-Deep-Learning-with-TensorFlow">Generative Deep Learning with TensorFlow</a></th>
 <th align="left">Week 01: Style Transfer</th>
         </tr>
 <tr><th align="left">Week 02: AutoEncoders</th></tr>
