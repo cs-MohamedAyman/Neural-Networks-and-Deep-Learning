@@ -5,16 +5,7 @@ Neural Networks and Deep Learning Training for computer science students.
 <a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/generative-adversarial-network.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/deep-learning.png"></img></a>
 <a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/neural-networks.png"></img></a>
-<br><br>
-<table>
-    <tbody>
-<tr>
-<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
-<td align="center" width="90%"><h3>Are you looking for a 13-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
-</tr>
-    </tbody>
-</table>
-<br><br>
+<br><br><br><br>
 
 <a href="/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/deeplearningai.png"></img></a>
 
